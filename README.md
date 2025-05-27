@@ -9,7 +9,7 @@ Este projeto tem como propósito disseminar o uso de bases públicas de dados e 
 
 ## 🧠 Conceito e Aplicação
 
-A democracia é um conceito complexo, composto por múltiplas dimensões. Para além do voto, ela envolve aspectos como liberdade civil, participação popular, igualdade de acesso e qualidade do debate público. Neste projeto, usamos dados do **Variedades de Democracia (V-Den)**.
+A democracia é um conceito complexo, composto por múltiplas dimensões. Para além do voto, ela envolve aspectos como liberdade civil, participação popular, igualdade de acesso e qualidade do debate público. Neste projeto, são usados dados do **Variedades de Democracia (V-Dem)**.
 
 O V-Dem é um projeto da Universidade de Gotemburgo que possui abordagem única para mensuração da democracia com mais de 450 indicadores medidos anualmente desde 1789 para 202 países. 🌍
 Neste projeto, o foco está na evolução dos cinco princípios de alto nível da democracia no Brasil, observados ao longo do período de 1900 a 2024.

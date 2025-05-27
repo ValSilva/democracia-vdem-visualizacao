@@ -19,8 +19,6 @@ O foco desta análise está na trajetória brasileira entre 1900 e 2024, com bas
 - **Democracia Participativa**: mede o quanto os cidadãos participam de seu próprio governo por meio de instituições democráticas locais, organizações da sociedade civil e democracia direta.
 - **Democracia Liberal**: mede o estado de direito e liberdades civis.
 
-Os países são classificados com notas que vão de 0 a 1, em que 0 representa um regime ditatorial completo e 1, democracia plena.
-
 ---
 
 ## 📦 Fonte dos Dados

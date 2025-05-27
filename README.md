@@ -54,7 +54,12 @@ O resultado é um gráfico animado como o exemplo abaixo:
 ![Exemplo de visualização](gif_democracia3.gif)
 
 ---
+## 📈 Análise da Evolução dos Índices de Democracia no Brasil (1900–2024)
+No gráfico é possível observar a evolução dos índices de democracia no Brasil entre 1900 e 2024. A série histórica evidencia três padrões principais na trajetória política do país: a alternância entre regimes democráticos e autoritários, o fortalecimento gradual da democracia nos períodos de estabilidade institucional e, mais recentemente, sinais de autocratização.
 
+As diferentes dimensões analisadas — eleitoral, liberal, participativa, igualitária e deliberativa — acompanham trajetórias semelhantes, mas não idênticas. Enquanto a democracia eleitoral tende a apresentar recuperação mais rápida após rupturas institucionais, dimensões como a igualdade política ou a qualidade do debate público avançam de forma mais lenta e desigual. Nos anos recentes, os dados indicam uma tendência de declínio nos indicadores de democracia liberal e deliberativa, refletindo fragilizações nas garantias institucionais e no funcionamento dos freios e contrapesos.
+
+---
 ## 🧰 Requisitos
 
 ```r
@@ -68,5 +73,5 @@ remotes::install_github("vdeminstitute/vdemdata")
 
 Projeto por **Valéria Andrade Silva**  
 Doutoranda em Economia – Cedeplar/UFMG  
-💡 [LinkedIn](https://linkedin.com/in/seuperfil)  
-📧 valeria@[email].com
+💡 [LinkedIn](www.linkedin.com/in/valéria-andrade-silva)  
+📧 valeria.andrade81@hotmail.com

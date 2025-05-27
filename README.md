@@ -4,7 +4,6 @@
 **Objetivo do Projeto**  
 Este projeto tem como propósito disseminar o uso de bases públicas de dados e estimular a utilização do R como ferramenta de análise e comunicação científica. A partir de uma abordagem conceitual e empírica, visualizamos como a democracia brasileira evoluiu nas últimas décadas em diferentes dimensões.
 
-📖 Inspirado no meu artigo: [Como definir democracia?](https://medium.com/@valeria_silva/como-definir-democracia-9fc958cc0eac)
 
 ---
 

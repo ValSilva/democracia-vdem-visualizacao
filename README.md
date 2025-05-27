@@ -9,13 +9,19 @@ Este projeto tem como propósito disseminar o uso de bases públicas de dados e 
 
 ## 🧠 Conceito e Aplicação
 
-A democracia é um conceito complexo, composto por múltiplas dimensões. Para além do voto, ela envolve aspectos como liberdade civil, participação popular, igualdade de acesso e qualidade do debate público. Neste projeto, usamos dados do **V-Dem Institute** para medir e visualizar cinco dimensões da democracia no Brasil de 1900 a 2023:
+A democracia é um conceito complexo, composto por múltiplas dimensões. Para além do voto, ela envolve aspectos como liberdade civil, participação popular, igualdade de acesso e qualidade do debate público. Neste projeto, usamos dados do **Variedades de Democracia (V-Den)**.
 
-- **Democracia Deliberativa**
-- **Democracia Igualitária**
-- **Democracia Eleitoral**
-- **Democracia Participativa**
-- **Democracia Liberal**
+O V-Dem é um projeto da Universidade de Gotemburgo que possui abordagem única para mensuração da democracia com mais de 450 indicadores medidos anualmente desde 1789 para 202 países. 🌍
+Neste projeto, o foco está na evolução dos cinco princípios de alto nível da democracia no Brasil, observados ao longo do período de 1900 a 2024.
+
+Os cinco princípios analisados são
+- **Democracia Deliberativa** - mede se o raciocínio público é inclusivo e se concentra no bem comum.
+- **Democracia Igualitária** - mede o nível de igualdade de acesso a recursos e os direitos e liberdades entre vários grupos dentro de uma sociedade.
+- **Democracia Eleitoral** - mede se as eleições foram livres e justas e se houve prevalência de uma mídia livre e independente. É considerado o elemento central e por isso incluído nos demais índices.
+- **Democracia Participativa** - mede o quanto os cidadãos participam de seu próprio governo por meio de instituições democráticas locais, organizações da sociedade civil e democracia direta.
+- **Democracia Liberal** - mede o estado de direito e liberdades civis.
+
+Os países são classificados com notas que vão de 0 a 1, em que 0 representa um regime ditatorial completo e 1, democracia plena.
 
 ---
 

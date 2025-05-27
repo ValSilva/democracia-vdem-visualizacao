@@ -8,13 +8,11 @@ Este projeto tem como propósito disseminar o uso de bases públicas de dados e 
 ---
 
 ## 🧠 Conceito e Aplicação
+A democracia é um conceito multifacetado, que vai muito além da realização de eleições. Ela envolve aspectos como liberdade civil, igualdade de acesso ao poder, participação política e a qualidade do debate público e institucional.
 
-A democracia é um conceito complexo, composto por múltiplas dimensões. Para além do voto, ela envolve aspectos como liberdade civil, participação popular, igualdade de acesso e qualidade do debate público. Neste projeto, são usados dados do **Variedades de Democracia (V-Dem)**.
+Neste projeto, utilizam-se dados do Varieties of Democracy (V-Dem) — uma iniciativa internacional sediada na Universidade de Gotemburgo, que adota uma abordagem robusta e multidimensional para medir a democracia. O banco do V-Dem reúne mais de 450 indicadores, coletados anualmente desde 1789 para mais de 200 países, permitindo comparações históricas e geográficas em alta granularidade. 🌍
 
-O V-Dem é um projeto da Universidade de Gotemburgo que possui abordagem única para mensuração da democracia com mais de 450 indicadores medidos anualmente desde 1789 para 202 países. 🌍
-Neste projeto, o foco está na evolução dos cinco princípios de alto nível da democracia no Brasil, observados ao longo do período de 1900 a 2024.
-
-Os cinco princípios analisados são
+O foco desta análise está na trajetória brasileira entre 1900 e 2024, com base na evolução de cinco princípios de alto nível da democracia:
 - **Democracia Deliberativa**: mede se o raciocínio público é inclusivo e se concentra no bem comum.
 - **Democracia Igualitária**: mede o nível de igualdade de acesso a recursos e os direitos e liberdades entre vários grupos dentro de uma sociedade.
 - **Democracia Eleitoral**: mede se as eleições foram livres e justas e se houve prevalência de uma mídia livre e independente. É considerado o elemento central e por isso incluído nos demais índices.
